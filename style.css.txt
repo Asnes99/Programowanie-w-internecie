@@ -72,3 +72,12 @@ box-sizing: border-box;
 
 form textarea {
 height: 150px;
+}
+
+.header-image {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  width: 100px;
+  height: auto;
+}
